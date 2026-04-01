@@ -1,0 +1,23 @@
+[submodule "modules/superpowers"]
+	path = modules/superpowers
+	url = https://github.com/obra/superpowers
+
+[submodule "modules/everything-claude"]
+	path = modules/everything-claude
+	url = https://github.com/affaan-m/everything-claude-code
+
+[submodule "modules/ui-ux-pro-max"]
+	path = modules/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+
+[submodule "modules/browser-use"]
+	path = modules/browser-use
+	url = https://github.com/browser-use/browser-use
+
+[submodule "modules/claude-mem"]
+	path = modules/claude-mem
+	url = https://github.com/thedotmack/claude-mem
+
+[submodule "modules/n8n-mcp"]
+	path = modules/n8n-mcp
+	url = https://github.com/czlonkowski/n8n-mcp
